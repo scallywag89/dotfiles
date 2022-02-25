@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bennett.adler@gmail.com
+	name = bennettmackenzie
